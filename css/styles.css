@@ -1,0 +1,35 @@
+body {
+	padding: 3rem;
+}
+
+div.container {
+	margin: 0 auto;
+	width: 600px;
+	border: 1px solid #656d78;
+	border-radius: 15px;
+	box-shadow: 0 0 8px 0 #434a54;
+}
+
+h1 {
+	font-family: 'Handlee', cursive;
+	font-size: 4rem;
+	color: white;
+	text-align: center;
+	background-color: red;
+	padding: 0.25rem;
+	border-radius: 15px 15px 0 0;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1.2rem;
+	padding-top: 1rem;
+}
+
+p:first-of-type {
+	padding-top: 0;
+}
+
+div.container div {
+	padding: 1rem;
+}
